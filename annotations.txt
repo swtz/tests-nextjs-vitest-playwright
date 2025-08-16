@@ -1,0 +1,10 @@
+Curso:
+React 19 e Next.js 15 com App Router, Server Actions,
+Server Components, Tailwind CSS, TypeScript e Rest API com NestJS
+
+Seção:
+Seção 6: Testes automatizados no Vitest e Playwright
+(unit, integração e e2e) + Storybook
+
+Aula:
+285. Configuração do Vitest (vitest.config.ts) para Next.js, React e TypeScript
