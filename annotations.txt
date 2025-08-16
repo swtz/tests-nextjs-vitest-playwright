@@ -7,4 +7,4 @@ Seção 6: Testes automatizados no Vitest e Playwright
 (unit, integração e e2e) + Storybook
 
 Aula:
-285. Configuração do Vitest (vitest.config.ts) para Next.js, React e TypeScript
+286. Vitest - primeiro teste unitário de uma função (Testes automatizados)
